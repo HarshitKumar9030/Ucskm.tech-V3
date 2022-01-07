@@ -1,0 +1,20 @@
+{
+  "clientId": "your-bot-client-id",
+  "guildId": "your-discord-server-id",
+
+
+  "parentOpened": "The category in which ticket is going to open",
+  "parentPayment": "The category in which the payment ticket category is going to open",
+  "parentSupport": "The category in which the Support ticket category is going to open",
+  "parentOther": "The category in which the Other ticket category is going to open",
+
+
+  "roleSupport": "your-support-role",
+
+  
+  "logsTicket": "ticket-logs-channel",
+  "ticketChannel": "your-main-ticket-channel",
+
+  "footerText": "Ucskm.tech"
+}
+
