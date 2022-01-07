@@ -7,7 +7,7 @@ A discord ticket bot with buttons & slash commands
 
 You need to have Node.JS 16+
 
-``````bash
+```bash
 git clone # Ticket Bot
 
 A discord ticket bot with buttons & slash commands
