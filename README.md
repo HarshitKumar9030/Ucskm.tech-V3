@@ -52,7 +52,7 @@ npm i
 
 ## Deployment
 ```bash
-node commands.js # To deploy slash commands in all the servers the bot is in
+node deploy-commands.js # To deploy slash commands in all the servers the bot is in
 node index.js # To start the ticket-bot
 ```
 
