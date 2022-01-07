@@ -2,7 +2,7 @@ module.exports = {
   name: 'ready',
   async execute(client) {
     console.log('Ucskm.tech tickets V3')
-    console.log('BOT: I love you ❤️ Harshit,Thanks for creating me.');
+    console.log('BOT: I love you ❤️  Harshit,Thanks for creating me.');
     const oniChan = client.channels.cache.get(client.config.ticketChannel)
 
     function sendTicketMSG() {
